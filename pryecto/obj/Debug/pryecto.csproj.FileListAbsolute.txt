@@ -1,0 +1,10 @@
+G:\1 Proyecto dj\backend\pryecto\pryecto\bin\Debug\pryecto.exe.config
+G:\1 Proyecto dj\backend\pryecto\pryecto\bin\Debug\pryecto.exe
+G:\1 Proyecto dj\backend\pryecto\pryecto\bin\Debug\pryecto.pdb
+G:\1 Proyecto dj\backend\pryecto\pryecto\obj\Debug\pryecto.csproj.AssemblyReference.cache
+G:\1 Proyecto dj\backend\pryecto\pryecto\obj\Debug\pryecto.Form1.resources
+G:\1 Proyecto dj\backend\pryecto\pryecto\obj\Debug\pryecto.Properties.Resources.resources
+G:\1 Proyecto dj\backend\pryecto\pryecto\obj\Debug\pryecto.csproj.GenerateResource.cache
+G:\1 Proyecto dj\backend\pryecto\pryecto\obj\Debug\pryecto.csproj.CoreCompileInputs.cache
+G:\1 Proyecto dj\backend\pryecto\pryecto\obj\Debug\pryecto.exe
+G:\1 Proyecto dj\backend\pryecto\pryecto\obj\Debug\pryecto.pdb
